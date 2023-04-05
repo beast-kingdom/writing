@@ -33,6 +33,7 @@ start with dose when reaching disimpaction.
 - information on children's conspitation/soiling and bladder problem
 	https://eric.org.uk/ 
 	https://eric.org.uk/advice-for-children-with-constipation/
+	https://www.healthychildren.org/English/health-issues/conditions/abdominal/Pages/Constipation.aspx
 
 - medical paper search engine: 
 	https://pubmed.ncbi.nlm.nih.gov/
@@ -40,3 +41,6 @@ start with dose when reaching disimpaction.
 ##### Bristol stool chart
 ![[Bristol_stool_chart.jpg]]
 Different sources give slightly different opinions on what is normal  stool. [This source](https://www.gutsense.org/constipation/normal_stools.html) considers type 4 and type 5 are normal, while [this one](https://pediatricsurgery.stanford.edu/Conditions/BowelManagement/bristol-stool-form-scale.html) suggests that type 3 and 4 are ideal, and [this](https://eric.org.uk/poo-checker/) indicates that only type 3 is ideal, while type 5,6 maybe ok.
+
+##### After thoughts
+When I searched "children conspitation" on google, it show me many pages that are full of superficial information without actionable solution. The only usable on the first result page is this [one](https://www.healthychildren.org/English/health-issues/conditions/abdominal/Pages/Constipation.aspx), others either give common sense information or just serve as a bait for their business. It took me quite some time to land on the actually usful [eric.org](https://eric.org.uk/), which ironically is a google sponser link. Unfortunally I forgot how I got there. So next time when searching health related information, better use https://pubmed.ncbi.nlm.nih.gov/ to do some academy research first, and then use more specific/medical keywords on regular search engine to get better result.
